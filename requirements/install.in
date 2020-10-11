@@ -1,0 +1,6 @@
+aiosmtplib
+httpx
+starlette
+python-multipart
+ujson
+uvicorn
